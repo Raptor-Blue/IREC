@@ -19,3 +19,4 @@ mission planner(software)
 http://ardupilot.org/planner/
 
 
+https://github.com/mavlink/mavlink/issues/993
